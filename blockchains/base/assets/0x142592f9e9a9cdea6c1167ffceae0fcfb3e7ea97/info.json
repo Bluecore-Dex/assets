@@ -1,0 +1,21 @@
+{
+    "name": "BlueCore",
+    "symbol": "BCOR",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "BlueCore",
+    "website": "https://www.bluecorelabs.co.uk/",
+    "explorer": "https://basescan.org/token/0x142592f9e9a9cdea6c1167ffceae0fcfb3e7ea97",
+    "status": "active",
+    "id": "0x142592f9e9a9cdea6c1167ffceae0fcfb3e7ea97",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/weth/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/weth/"
+        }
+    ]
+}
