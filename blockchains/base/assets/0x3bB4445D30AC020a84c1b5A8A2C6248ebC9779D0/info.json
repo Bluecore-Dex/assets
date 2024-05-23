@@ -1,0 +1,14 @@
+{
+    "name": "0x Protocol Token",
+    "symbol": "ZRX",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "0x Protocol Token",
+    "website": "",
+    "explorer": "https://basescan.org/token/0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0",
+    "research": "",
+    "status": "active",
+    "id": "0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0",
+    "links": [],
+    "tags": []
+}
